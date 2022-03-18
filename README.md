@@ -2,7 +2,7 @@
 
 ---
 
-My favorite author is Isaac Asimov :books:. I read many of his novels and short stories. I love science :ringed_planet: and I am a curious person. I like many TV shows :clapper: like Star Trek, Lost, Breaking Bad and Cosmos.
+Let me start with some of my favorite things. My #1 author is Isaac Asimov :books:. I read many of his novels and short stories. I love science :ringed_planet: and I am a curious person. I like many TV shows :clapper: like Star Trek, Lost, Breaking Bad and Cosmos.
 
 But we are here to talk about my skillset. Althought my focus is backend development I have frontend skills too. Let's see some of my coding preferences:
 
