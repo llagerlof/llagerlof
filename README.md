@@ -44,16 +44,6 @@ Let's not extend this talk anymore. Go, look at some goodies I made opensource.
 - A [PHP library](https://github.com/llagerlof/MoodleRest) to access Moodle's webservices.
 - A [web application tool](https://github.com/llagerlof/freezer) to help developers to research and discover which records were inserted into a database.
 
----
-
-If you want to message me you can use one of these channels:
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://user-images.githubusercontent.com/193798/159041304-ab4c7def-7ec1-4737-a8d4-70084da6d241.svg" width="14">&nbsp; https://www.linkedin.com/in/lawrencelagerlof
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :mailbox: &nbsp;llagerlof@gmail.com
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :envelope:&nbsp; https://telegram.me/Lawrence_Lagerlof 
-
 <!--
 **llagerlof/llagerlof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
