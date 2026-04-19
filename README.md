@@ -40,11 +40,11 @@ To be brief, I use many tools commonly used in development, like GIT, SSH and Do
 
 Let's not extend this talk anymore. Go, look at some goodies I made opensource.
 
-
 - A [Conway's Game of Life implementation](https://github.com/llagerlof/game-of-life-dom), using JavaScript and Svelte.
 - A [PHP library](https://github.com/llagerlof/MoodleRest) to access Moodle's web services.
 - A [web application tool](https://github.com/llagerlof/freezer) to help developers identify which records were inserted into a database.
 - A [Chrome extension boilerplate](https://github.com/llagerlof/fresh-chrome-extension) (Manifest v3) containing basic functionalities of a browser plugin.
+- A [set of shell tools](https://github.com/llagerlof/lawrence-shell-utilities) to make life easier.
 
 <!--
 **llagerlof/llagerlof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
